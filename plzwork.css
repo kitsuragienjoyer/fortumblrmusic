@@ -1,11 +1,11 @@
 #player,#player a{ color:#fff; font-family: georgia; }
 #player{ background:url(http://static.tumblr.com/htrhrr7/T9Klzz3lp/volumecaveira.png); background-position:bottom; background-color: #000000; font-size: 10px;}
-#player .mainImage{ background:url(https://i.imgur.com/lRVpfPr.png); }
+#player .mainImage{ background:url(http://static.tumblr.com/htrhrr7/IRZlzz20v/byme.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(https://i.imgur.com/nJQxEEr.png); }
+#player #play{ background:url(http://static.tumblr.com/htrhrr7/EXelzz21e/plulu.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
